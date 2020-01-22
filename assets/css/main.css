@@ -32,6 +32,26 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
+#top,#work,#portfolio,body{
+	background-color: #223;
+	
+}
+#top h1{
+	color:#aab;
+}
+#top h1 strong{
+	color:#aab;
+}
+#work h2{
+	color:#aab;
+}
+#work b,#work p,.container h2{
+	color:#aab;
+
+}
+.box.style2{
+	background-color: #ccc;
+}
 
 ol, ul {
 	list-style: none;
